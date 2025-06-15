@@ -2,7 +2,7 @@
 
 👀 I’m interested in computational biology, genomics, bioinformatics, and the integration of AI in healthcare and drug discovery,intergartion of wet lab and dry lab 
 
-🌱 I’m currently learning and exploring AI/ML,Bioifnromatics 
+🌱 I’m currently learning and exploring AI/ML,Bioinformatics 
 
 💞️ I’m looking to collaborate on AI/ML-based projects in disease prediction, biomarker discovery, and antimicrobial resistance studies,cancer genomics,bioinfromatics 
 
