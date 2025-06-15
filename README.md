@@ -3,7 +3,7 @@
 This project is part of the BioinformHER Module 2 Mini-Project. It explores the evolutionary conservation of the Hemoglobin Beta (HBB) gene across selected species using bioinformatics tools.
 ## 🔬 Objective
 
-To analyze the HBB gene from *Homo sapiens* and investigate its evolutionary conservation across five other species using sequence alignment and phylogenetic methods.
+To analyze the HBB gene from *Homo sapiens* and investigate its evolutionary conservation across five other species using sequence alignment and phylogenetic method.
 ## 📌 Tasks Completed
 
 1. Retrieved HBB sequences using NCBI BLAST.
