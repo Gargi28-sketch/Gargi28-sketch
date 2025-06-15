@@ -21,7 +21,7 @@ To analyze the HBB gene from *Homo sapiens* and investigate its evolutionary con
 - [MEGA X](https://www.megasoftware.net/)
 
 Click here to view the full project report -  (https://github.com/Gargi28-sketch/Gargi28-sketch/blob/f643d66cfeff0818112cc6dfa02a5597c85d6315/HBB_MiniProject_GargiDurbude.pdf)
-## 🧪 Key Findings
+## 🧪 Key Findings 
 
 - Mouse (*Mus musculus*) is most closely related to human based on HBB sequence (80.3% identity).
 - Birds (*Anas flavirostris oxyptera*, *Troglodytes aedon*) are more distantly related.
