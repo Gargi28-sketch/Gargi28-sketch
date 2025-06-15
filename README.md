@@ -20,7 +20,7 @@ To analyze the HBB gene from *Homo sapiens* and investigate its evolutionary con
 - [Skylign](http://skylign.org/)
 - [MEGA X](https://www.megasoftware.net/)
 
-Details reuslt and analysis -HBB_MiniProject_GargiDurbude.pdf 
+Details reuslt and analysis - (HBB_MiniProject_GargiDurbude.pdf)  
 ## 🧪 Key Findings
 
 - Mouse (*Mus musculus*) is most closely related to human based on HBB sequence (80.3% identity).
