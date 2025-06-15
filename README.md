@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on AI/ML-based projects in disease prediction, biomarker discovery, and antimicrobial resistance studies,cancer genomics,bioinfromatics 
 
-📫 How to reach me: gargidurbude2001@gmail.com | +91 9897348265
+📫 How to reach me: gauridilip2001@gmail.com
 
 😄 Pronouns: She/Her
 
